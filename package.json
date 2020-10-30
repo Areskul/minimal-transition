@@ -1,7 +1,7 @@
 {
   "name": "@areskul/minimal-transition",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "main": "utils.scss",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
